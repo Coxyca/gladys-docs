@@ -16,9 +16,9 @@ Rendez-vous dans l'onglet `Réveils` de l'interface de Gladys.
 
 Vous pouvez définir trois types d'alarmes :
 
-- Des alarmes uniques qui ne se déclencheront qu'une seule fois, à une date et une heure précises
+- Des alarmes uniques qui ne se déclencheront qu'une seule fois, à une date et une heure précises (par exemple : "le 31 décembre 2042 à 23h59")
 - Des alarmes uniques qui se déclencheront après un certain délai (par exemple : "dans 8 heures")
-- Des alarmes récurrentes (par exemple : tous les lundis à 9h00) 
+- Des alarmes récurrentes (par exemple : "tous les lundis à 9h00") 
 
 <img alt="Alarm in Gladys" src="/assets/images/documentation/alarm/alarm-2.png" class="img-responsive" />
 
