@@ -19,7 +19,7 @@ Vous pouvez effectuer cette mise à jour quand bon vous semble. Essayez !
 
 Afin de créer un scénario, rendez-vous dans l'onglet `Scénarios`.
 
-#### Cliquez sur `Nouveau`
+#### Cliquer sur `Nouveau`
 
 Vous devriez voir apparaître cette fenêtre, vous proposant différentes catégories de déclencheurs. Sélectionnez `Alarme`.
 
